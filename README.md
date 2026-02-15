@@ -1,0 +1,2 @@
+# Distribution-System-State-Estimation-with-Topology-Selection-and-Pseudo-Measurement-Gap-Filling
+AC distribution system state estimation (DSSE) over time series data to recover full bus voltage magnitudes and angles from sparse V P Q and angle measurements using nonlinear least squares. Includes topology selection via minimum cost and residual based bad data detection. Optional pseudo P and Q fill gaps to improve observability.
